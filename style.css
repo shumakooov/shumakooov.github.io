@@ -76,7 +76,6 @@ a:focus {
  }
 
 .about-image {
-  object-fit: cover;
    width: 147px;
    height: 147px;
    border-radius: 50%;
